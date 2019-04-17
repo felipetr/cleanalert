@@ -1,4 +1,4 @@
-# Bootstrap Clean Alert -http://felipetravassos.com/
+# Bootstrap Clean Alert
 
 
 A plugin to print beautiful and clean alert modals.
